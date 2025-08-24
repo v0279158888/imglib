@@ -12,9 +12,17 @@
 ### Penguin
 ![ora_penguin](ora_penguin.png)
 
-# Project Gallery
+### Background
+![Deepseek Background](Deepseek_background.jpeg)
 
-Here are the images included in this repository:
+### Favicon
+![Deepseek Favicon](Deepseek_Favicon.jpeg)
+
+### Logo
+![Logo](Logo.jpg)
+
+### Penguin
+![Penguin Color](Penguin_color.jpeg)
 
 ### Akio
 ![akio](akio.jpeg)
@@ -54,4 +62,5 @@ Here are the images included in this repository:
 
 ### Yellow Linux Logo
 ![apartment](apartment.jpg)
+
 
