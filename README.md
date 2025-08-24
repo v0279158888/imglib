@@ -12,12 +12,6 @@
 ### Penguin
 ![ora_penguin](ora_penguin.png)
 
-### Background
-![Deepseek Background](Deepseek_background.jpeg)
-
-### Favicon
-![Deepseek Favicon](Deepseek_Favicon.jpeg)
-
 ### Logo
 ![Logo](Logo.jpg)
 
