@@ -11,3 +11,38 @@
 
 ### Penguin
 ![ora_penguin](ora_penguin.png)
+
+# Project Gallery
+
+Here are the images included in this repository:
+
+### Akio
+![akio](akio.jpeg)
+
+### Auckland
+![akl](akl.jpg)
+
+### Bob
+![bob](bob.jpeg)
+
+### Butterfly (Blue background)
+![butterfly blue](butterfly%20blue.jpg)
+
+### Butterfly (White background)
+![butterfly white](butterfly%20white.jpeg)
+
+### Fantasy Scene
+![fs](fs.jpeg)
+
+### Office 1
+![office](office.jpg)
+
+### Office 2
+![office2](office2.jpg)
+
+### Oracle Akio
+![ora_akio](ora_akio.jpeg)
+
+### Yellow Linux Logo
+![yellow](yellow.JPG)
+
