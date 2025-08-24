@@ -47,11 +47,11 @@ Here are the images included in this repository:
 ![yellow](yellow.JPG)
 
 ### Akio 2
-![akio2](akio2.jpeg)
+![akio2](akio.JPG)
 
 ### Oracle Akio
-![apt2](apt2.jpeg)
+![apt2](apt2.jpg)
 
 ### Yellow Linux Logo
-![apartment](apartment.jpeg)
+![apartment](apartment.jpg)
 
